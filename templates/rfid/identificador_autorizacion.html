@@ -1,0 +1,91 @@
+{% extends 'base/base.html' %}
+
+{% block title %} Autorizar rfid  {% endblock %}
+
+{% block content %}
+
+<div class="container">
+  <div class="row justify-content-center">
+  <div class="jumbotron">
+    <h3 class="text-center">IDENTIFICADOR RFID 2  <div class="col-12"</h3>
+
+      <form class="form-center"    action="/Rfid/Autorizar" >
+        <button class="btn btn-outline-success my-2 my-sm-0 " type="submit">ACTIVAR</button>
+      </form>
+
+  </div>
+    </div>
+      </div>
+
+
+
+
+{% endblock%}
+
+
+
+
+{% block footer %}
+<div class="container">
+
+
+
+
+   {% if usuario2  %}
+
+
+      <table class="table table-bordered">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">apellidos</th>
+            <th scope="col">cedula</th>
+            <th scope="col">programa </th>
+            <th scope="col">Uid</th>
+            <th scope="col">Saldo</th>
+            <th scope="col">Acciones</th>
+
+
+
+
+           </tr>
+
+         </thead>
+         <tbody>
+
+   {% for usuario in usuario2 %}
+      <tr>
+
+                     <td>{{ usuario.id }}</td>
+                     <td>{{ usuario.nombre }}</td>
+                     <td>{{ usuario.apellidos }}</td>
+                     <td>{{ usuario.cedula }}</td>
+                     <td>{{ usuario.programa}}</td>
+                     <td>{{ usuario.uid}}</td>
+                     <td>{{ usuario.saldo}}</td>
+
+                           <td>
+                             <a class="btn btn-primary" href="{% url  'usuarios:crear_trans' usuario.id %}">Transaccion</a>
+                            <!-- <a class="btn btn-primary" href="{% url 'rfid:saldo_editar' usuario.id %}">Editar</a>   --->
+                           </td>
+                         </tr>
+
+
+
+
+   {% endfor %}
+ <tr>
+
+    {% else %}
+
+       <h1>No hay registros disponibles </h1>
+
+
+
+   {% endif %}
+
+
+ </tbody>
+</table>
+{% endblock%}

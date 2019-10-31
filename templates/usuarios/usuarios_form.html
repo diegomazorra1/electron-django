@@ -1,0 +1,22 @@
+{% extends 'base/base.html' %}
+
+{% block content %}
+
+<div class="container">
+
+
+	<h4> COMPLETE LA INFORMACION  </h4>
+
+
+
+	<form method="post" enctype="multipart/form-data">
+		{% csrf_token %}
+		{{ form.as_p }}
+
+
+
+		<button class="btn btn-primary "type="submit">Guardar</button>
+	</form>
+
+
+	{% endblock %}

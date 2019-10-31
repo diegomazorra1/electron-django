@@ -1,0 +1,3857 @@
+('C:\\Users\\Diego '
+ 'M\\Documents\\SoftwareParqueadero\\electron\\holamundo\\mi-app-django2\\build\\proyecto_ejemplo\\PYZ-00.pyz',
+ [('django.utils.autoreload',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\autoreload.py',
+   'PYMODULE'),
+  ('django.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\__init__.py',
+   'PYMODULE'),
+  ('django.utils.tree',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\tree.py',
+   'PYMODULE'),
+  ('django.utils.hashable',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\hashable.py',
+   'PYMODULE'),
+  ('django.utils.itercompat',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\itercompat.py',
+   'PYMODULE'),
+  ('django.utils.termcolors',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\termcolors.py',
+   'PYMODULE'),
+  ('django.utils.baseconv',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\baseconv.py',
+   'PYMODULE'),
+  ('django.utils.numberformat',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\numberformat.py',
+   'PYMODULE'),
+  ('django.utils.safestring',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\safestring.py',
+   'PYMODULE'),
+  ('django.conf',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.urls',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\urls\\__init__.py',
+   'PYMODULE'),
+  ('django.views.defaults',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\views\\defaults.py',
+   'PYMODULE'),
+  ('django.views.decorators.csrf',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\views\\decorators\\csrf.py',
+   'PYMODULE'),
+  ('django.views.decorators',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\views\\decorators\\__init__.py',
+   'PYMODULE'),
+  ('django.utils.decorators',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\decorators.py',
+   'PYMODULE'),
+  ('django.middleware.csrf',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\middleware\\csrf.py',
+   'PYMODULE'),
+  ('django.middleware',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\middleware\\__init__.py',
+   'PYMODULE'),
+  ('django.utils.log',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\log.py',
+   'PYMODULE'),
+  ('django.views.debug',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\views\\debug.py',
+   'PYMODULE'),
+  ('django.utils.encoding',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\encoding.py',
+   'PYMODULE'),
+  ('django.utils.datastructures',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\datastructures.py',
+   'PYMODULE'),
+  ('django.template.defaultfilters',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\template\\defaultfilters.py',
+   'PYMODULE'),
+  ('django.template.library',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\template\\library.py',
+   'PYMODULE'),
+  ('django.template.exceptions',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\template\\exceptions.py',
+   'PYMODULE'),
+  ('django.template.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\template\\base.py',
+   'PYMODULE'),
+  ('django.template.engine',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\template\\engine.py',
+   'PYMODULE'),
+  ('django.template.backends.django',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\template\\backends\\django.py',
+   'PYMODULE'),
+  ('django.template.backends',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\template\\backends\\__init__.py',
+   'PYMODULE'),
+  ('django.template.backends.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\template\\backends\\base.py',
+   'PYMODULE'),
+  ('django.utils._os',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\_os.py',
+   'PYMODULE'),
+  ('django.template.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\template\\utils.py',
+   'PYMODULE'),
+  ('django.template.context',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\template\\context.py',
+   'PYMODULE'),
+  ('django.utils.translation',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\translation\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\__init__.py',
+   'PYMODULE'),
+  ('django.utils.translation.template',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\translation\\template.py',
+   'PYMODULE'),
+  ('django.utils.translation.trans_null',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\translation\\trans_null.py',
+   'PYMODULE'),
+  ('django.utils.translation.reloader',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\translation\\reloader.py',
+   'PYMODULE'),
+  ('django.utils.translation.trans_real',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\translation\\trans_real.py',
+   'PYMODULE'),
+  ('django.utils.timesince',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\timesince.py',
+   'PYMODULE'),
+  ('django.utils.text',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\text.py',
+   'PYMODULE'),
+  ('django.utils.html',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\html.py',
+   'PYMODULE'),
+  ('django.core.serializers.json',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\serializers\\json.py',
+   'PYMODULE'),
+  ('django.core.serializers',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\serializers\\__init__.py',
+   'PYMODULE'),
+  ('django.utils.duration',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\duration.py',
+   'PYMODULE'),
+  ('django.core.serializers.python',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\serializers\\python.py',
+   'PYMODULE'),
+  ('django.db.models',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\__init__.py',
+   'PYMODULE'),
+  ('django.db.models.fields.related',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\fields\\related.py',
+   'PYMODULE'),
+  ('django.db.models.fields.reverse_related',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\fields\\reverse_related.py',
+   'PYMODULE'),
+  ('django.db.models.fields.related_lookups',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\fields\\related_lookups.py',
+   'PYMODULE'),
+  ('django.db.models.sql.where',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\sql\\where.py',
+   'PYMODULE'),
+  ('django.db.models.fields.related_descriptors',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\fields\\related_descriptors.py',
+   'PYMODULE'),
+  ('django.db.transaction',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\transaction.py',
+   'PYMODULE'),
+  ('django.db.models.fields.mixins',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\fields\\mixins.py',
+   'PYMODULE'),
+  ('django.db.models.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\utils.py',
+   'PYMODULE'),
+  ('django.db.models.constants',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\constants.py',
+   'PYMODULE'),
+  ('django.db.backends.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\utils.py',
+   'PYMODULE'),
+  ('django.db.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\utils.py',
+   'PYMODULE'),
+  ('django.db.backends',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\__init__.py',
+   'PYMODULE'),
+  ('django.db.backends.sqlite3.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\sqlite3\\base.py',
+   'PYMODULE'),
+  ('django.db.backends.sqlite3.schema',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\sqlite3\\schema.py',
+   'PYMODULE'),
+  ('django.db.backends.ddl_references',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\ddl_references.py',
+   'PYMODULE'),
+  ('django.db.backends.base.schema',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\base\\schema.py',
+   'PYMODULE'),
+  ('django.db.backends.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\base\\__init__.py',
+   'PYMODULE'),
+  ('django.apps.registry',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\apps\\registry.py',
+   'PYMODULE'),
+  ('django.apps.config',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\apps\\config.py',
+   'PYMODULE'),
+  ('django.db.backends.sqlite3.operations',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\sqlite3\\operations.py',
+   'PYMODULE'),
+  ('django.db.backends.base.operations',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\base\\operations.py',
+   'PYMODULE'),
+  ('sqlparse',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\__init__.py',
+   'PYMODULE'),
+  ('sqlparse.compat',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\compat.py',
+   'PYMODULE'),
+  ('sqlparse.formatter',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\formatter.py',
+   'PYMODULE'),
+  ('sqlparse.exceptions',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\exceptions.py',
+   'PYMODULE'),
+  ('sqlparse.filters',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\filters\\__init__.py',
+   'PYMODULE'),
+  ('sqlparse.filters.aligned_indent',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\filters\\aligned_indent.py',
+   'PYMODULE'),
+  ('sqlparse.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\utils.py',
+   'PYMODULE'),
+  ('sqlparse.filters.right_margin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\filters\\right_margin.py',
+   'PYMODULE'),
+  ('sqlparse.filters.reindent',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\filters\\reindent.py',
+   'PYMODULE'),
+  ('sqlparse.filters.tokens',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\filters\\tokens.py',
+   'PYMODULE'),
+  ('sqlparse.filters.output',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\filters\\output.py',
+   'PYMODULE'),
+  ('sqlparse.filters.others',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\filters\\others.py',
+   'PYMODULE'),
+  ('sqlparse.engine',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\engine\\__init__.py',
+   'PYMODULE'),
+  ('sqlparse.engine.statement_splitter',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\engine\\statement_splitter.py',
+   'PYMODULE'),
+  ('sqlparse.engine.filter_stack',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\engine\\filter_stack.py',
+   'PYMODULE'),
+  ('sqlparse.engine.grouping',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\engine\\grouping.py',
+   'PYMODULE'),
+  ('sqlparse.lexer',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\lexer.py',
+   'PYMODULE'),
+  ('sqlparse.keywords',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\keywords.py',
+   'PYMODULE'),
+  ('sqlparse.cli',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\cli.py',
+   'PYMODULE'),
+  ('sqlparse.sql',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\sql.py',
+   'PYMODULE'),
+  ('sqlparse.tokens',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\sqlparse\\tokens.py',
+   'PYMODULE'),
+  ('django.db.backends.sqlite3.introspection',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\sqlite3\\introspection.py',
+   'PYMODULE'),
+  ('django.db.backends.base.introspection',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\base\\introspection.py',
+   'PYMODULE'),
+  ('django.db.backends.sqlite3.features',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\sqlite3\\features.py',
+   'PYMODULE'),
+  ('django.db.backends.base.features',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\base\\features.py',
+   'PYMODULE'),
+  ('django.db.backends.sqlite3',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('django.db.backends.sqlite3.creation',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\sqlite3\\creation.py',
+   'PYMODULE'),
+  ('django.db.backends.base.creation',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\base\\creation.py',
+   'PYMODULE'),
+  ('django.db.migrations.loader',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\migrations\\loader.py',
+   'PYMODULE'),
+  ('django.db.migrations',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\migrations\\__init__.py',
+   'PYMODULE'),
+  ('django.db.migrations.operations',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\migrations\\operations\\__init__.py',
+   'PYMODULE'),
+  ('django.db.migrations.operations.special',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\migrations\\operations\\special.py',
+   'PYMODULE'),
+  ('django.db.migrations.operations.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\migrations\\operations\\base.py',
+   'PYMODULE'),
+  ('django.db.migrations.operations.models',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\migrations\\operations\\models.py',
+   'PYMODULE'),
+  ('django.db.migrations.operations.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\migrations\\operations\\utils.py',
+   'PYMODULE'),
+  ('django.db.models.options',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\options.py',
+   'PYMODULE'),
+  ('django.db.migrations.state',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\migrations\\state.py',
+   'PYMODULE'),
+  ('django.core.checks.model_checks',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\checks\\model_checks.py',
+   'PYMODULE'),
+  ('django.db.migrations.operations.fields',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\migrations\\operations\\fields.py',
+   'PYMODULE'),
+  ('django.db.migrations.migration',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\migrations\\migration.py',
+   'PYMODULE'),
+  ('django.db.migrations.exceptions',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\migrations\\exceptions.py',
+   'PYMODULE'),
+  ('django.db.migrations.recorder',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\migrations\\recorder.py',
+   'PYMODULE'),
+  ('django.db.migrations.graph',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\migrations\\graph.py',
+   'PYMODULE'),
+  ('django.db.backends.sqlite3.client',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\sqlite3\\client.py',
+   'PYMODULE'),
+  ('django.db.backends.base.client',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\base\\client.py',
+   'PYMODULE'),
+  ('django.utils.dateparse',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\dateparse.py',
+   'PYMODULE'),
+  ('pytz',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('__main__',
+   'C:\\Users\\Diego '
+   'M\\Anaconda3\\envs\\playgoes\\Scripts\\pyinstaller.exe\\__main__.py',
+   'PYMODULE'),
+  ('PyInstaller.__main__',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\__main__.py',
+   'PYMODULE'),
+  ('PyInstaller.building.build_main',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\building\\build_main.py',
+   'PYMODULE'),
+  ('PyInstaller.building',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\building\\__init__.py',
+   'PYMODULE'),
+  ('PyInstaller.config',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\config.py',
+   'PYMODULE'),
+  ('PyInstaller.utils.win32.winmanifest',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\utils\\win32\\winmanifest.py',
+   'PYMODULE'),
+  ('PyInstaller.utils.win32.winresource',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\utils\\win32\\winresource.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('PyInstaller.utils.win32',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\utils\\win32\\__init__.py',
+   'PYMODULE'),
+  ('PyInstaller.utils.win32.versioninfo',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\utils\\win32\\versioninfo.py',
+   'PYMODULE'),
+  ('pefile',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pefile.py',
+   'PYMODULE'),
+  ('ordlookup',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\ordlookup\\__init__.py',
+   'PYMODULE'),
+  ('ordlookup.oleaut32',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\ordlookup\\oleaut32.py',
+   'PYMODULE'),
+  ('ordlookup.ws2_32',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\ordlookup\\ws2_32.py',
+   'PYMODULE'),
+  ('PyInstaller.utils.win32.icon',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\utils\\win32\\icon.py',
+   'PYMODULE'),
+  ('PyInstaller.utils.win32.winutils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\utils\\win32\\winutils.py',
+   'PYMODULE'),
+  ('site',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\fake-modules\\site.py',
+   'PYMODULE'),
+  ('PyInstaller.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\utils\\__init__.py',
+   'PYMODULE'),
+  ('PyInstaller.configure',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\configure.py',
+   'PYMODULE'),
+  ('PyInstaller.archive.pyz_crypto',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\archive\\pyz_crypto.py',
+   'PYMODULE'),
+  ('PyInstaller.archive',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\archive\\__init__.py',
+   'PYMODULE'),
+  ('PyInstaller.depend.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\depend\\utils.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('PyInstaller.depend.dylib',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\depend\\dylib.py',
+   'PYMODULE'),
+  ('PyInstaller.lib.modulegraph.modulegraph',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\lib\\modulegraph\\modulegraph.py',
+   'PYMODULE'),
+  ('PyInstaller.lib.modulegraph._compat',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\lib\\modulegraph\\_compat.py',
+   'PYMODULE'),
+  ('PyInstaller.lib.modulegraph.zipio',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\lib\\modulegraph\\zipio.py',
+   'PYMODULE'),
+  ('altgraph',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\altgraph\\__init__.py',
+   'PYMODULE'),
+  ('altgraph.ObjectGraph',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\altgraph\\ObjectGraph.py',
+   'PYMODULE'),
+  ('altgraph.GraphUtil',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\altgraph\\GraphUtil.py',
+   'PYMODULE'),
+  ('altgraph.Graph',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\altgraph\\Graph.py',
+   'PYMODULE'),
+  ('PyInstaller.lib.modulegraph.util',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\lib\\modulegraph\\util.py',
+   'PYMODULE'),
+  ('PyInstaller.lib.modulegraph',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\lib\\modulegraph\\__init__.py',
+   'PYMODULE'),
+  ('PyInstaller.lib',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\lib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('PyInstaller.building.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\building\\utils.py',
+   'PYMODULE'),
+  ('PyInstaller.building.toc_conversion',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\building\\toc_conversion.py',
+   'PYMODULE'),
+  ('PyInstaller.building.osx',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\building\\osx.py',
+   'PYMODULE'),
+  ('PyInstaller.building.imphook',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\building\\imphook.py',
+   'PYMODULE'),
+  ('PyInstaller.building.imphookapi',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\building\\imphookapi.py',
+   'PYMODULE'),
+  ('PyInstaller.building.datastruct',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\building\\datastruct.py',
+   'PYMODULE'),
+  ('PyInstaller.building.api',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\building\\api.py',
+   'PYMODULE'),
+  ('PyInstaller.utils.osx',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\utils\\osx.py',
+   'PYMODULE'),
+  ('PyInstaller.archive.writers',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\archive\\writers.py',
+   'PYMODULE'),
+  ('PyInstaller.loader.pyimod02_archive',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.py',
+   'PYMODULE'),
+  ('PyInstaller.loader',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\loader\\__init__.py',
+   'PYMODULE'),
+  ('PyInstaller.depend.analysis',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\depend\\analysis.py',
+   'PYMODULE'),
+  ('PyInstaller.utils.hooks',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\utils\\hooks\\__init__.py',
+   'PYMODULE'),
+  ('PyInstaller.utils.hooks.win32',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\utils\\hooks\\win32.py',
+   'PYMODULE'),
+  ('PyInstaller.utils.hooks.qt',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\utils\\hooks\\qt.py',
+   'PYMODULE'),
+  ('PyInstaller.utils.hooks.gi',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\utils\\hooks\\gi.py',
+   'PYMODULE'),
+  ('PyInstaller.utils.hooks.django',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\utils\\hooks\\django.py',
+   'PYMODULE'),
+  ('PyInstaller.exceptions',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\exceptions.py',
+   'PYMODULE'),
+  ('PyInstaller.lib.modulegraph.find_modules',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\lib\\modulegraph\\find_modules.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('PyInstaller.depend.bindepend',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\depend\\bindepend.py',
+   'PYMODULE'),
+  ('PyInstaller.depend',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\depend\\__init__.py',
+   'PYMODULE'),
+  ('PyInstaller.utils.misc',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\utils\\misc.py',
+   'PYMODULE'),
+  ('PyInstaller.building.makespec',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\building\\makespec.py',
+   'PYMODULE'),
+  ('PyInstaller.building.templates',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\building\\templates.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('PyInstaller.compat',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\compat.py',
+   'PYMODULE'),
+  ('win32ctypes.pywin32.win32api',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\win32ctypes\\pywin32\\win32api.py',
+   'PYMODULE'),
+  ('win32ctypes.core',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\win32ctypes\\core\\__init__.py',
+   'PYMODULE'),
+  ('win32ctypes',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\win32ctypes\\__init__.py',
+   'PYMODULE'),
+  ('win32ctypes.version',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\win32ctypes\\version.py',
+   'PYMODULE'),
+  ('win32ctypes.core._winerrors',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\win32ctypes\\core\\_winerrors.py',
+   'PYMODULE'),
+  ('win32ctypes.pywin32.pywintypes',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\win32ctypes\\pywin32\\pywintypes.py',
+   'PYMODULE'),
+  ('win32ctypes.pywin32',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\win32ctypes\\pywin32\\__init__.py',
+   'PYMODULE'),
+  ('win32ctypes.pywin32.win32cred',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\win32ctypes\\pywin32\\win32cred.py',
+   'PYMODULE'),
+  ('PyInstaller.log',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\log.py',
+   'PYMODULE'),
+  ('PyInstaller',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\__init__.py',
+   'PYMODULE'),
+  ('PyInstaller.utils.git',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\utils\\git.py',
+   'PYMODULE'),
+  ('PyInstaller.utils._gitrevision',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\utils\\_gitrevision.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('pkg_resources.py31compat',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pkg_resources\\py31compat.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('imp',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\imp.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('statistics',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\statistics.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\numbers.py',
+   'PYMODULE'),
+  ('django.db.backends.postgresql_psycopg2.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\postgresql_psycopg2\\base.py',
+   'PYMODULE'),
+  ('django.db.backends.postgresql_psycopg2',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\postgresql_psycopg2\\__init__.py',
+   'PYMODULE'),
+  ('django.db.backends.postgresql.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\postgresql\\base.py',
+   'PYMODULE'),
+  ('django.db.backends.postgresql',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\postgresql\\__init__.py',
+   'PYMODULE'),
+  ('django.db.backends.postgresql.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\postgresql\\utils.py',
+   'PYMODULE'),
+  ('django.db.backends.postgresql.schema',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\postgresql\\schema.py',
+   'PYMODULE'),
+  ('django.db.backends.postgresql.operations',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\postgresql\\operations.py',
+   'PYMODULE'),
+  ('django.db.backends.postgresql.introspection',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\postgresql\\introspection.py',
+   'PYMODULE'),
+  ('django.db.backends.postgresql.features',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\postgresql\\features.py',
+   'PYMODULE'),
+  ('django.db.backends.postgresql.creation',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\postgresql\\creation.py',
+   'PYMODULE'),
+  ('psycopg2.errorcodes',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\psycopg2\\errorcodes.py',
+   'PYMODULE'),
+  ('django.db.backends.postgresql.client',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\postgresql\\client.py',
+   'PYMODULE'),
+  ('django.core.files.temp',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\files\\temp.py',
+   'PYMODULE'),
+  ('django.core.files',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\files\\__init__.py',
+   'PYMODULE'),
+  ('django.core.files.uploadhandler',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\files\\uploadhandler.py',
+   'PYMODULE'),
+  ('django.core.files.uploadedfile',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\files\\uploadedfile.py',
+   'PYMODULE'),
+  ('django.core.files.locks',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\files\\locks.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('django.core.files.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\files\\base.py',
+   'PYMODULE'),
+  ('django.core.files.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\files\\utils.py',
+   'PYMODULE'),
+  ('psycopg2.extras',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\psycopg2\\extras.py',
+   'PYMODULE'),
+  ('psycopg2.sql',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\psycopg2\\sql.py',
+   'PYMODULE'),
+  ('psycopg2._ipaddress',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\psycopg2\\_ipaddress.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('psycopg2._range',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\psycopg2\\_range.py',
+   'PYMODULE'),
+  ('psycopg2._json',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\psycopg2\\_json.py',
+   'PYMODULE'),
+  ('psycopg2.compat',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\psycopg2\\compat.py',
+   'PYMODULE'),
+  ('psycopg2._lru_cache',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\psycopg2\\_lru_cache.py',
+   'PYMODULE'),
+  ('psycopg2.extensions',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\psycopg2\\extensions.py',
+   'PYMODULE'),
+  ('psycopg2',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\psycopg2\\__init__.py',
+   'PYMODULE'),
+  ('psycopg2.tz',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\psycopg2\\tz.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\oracle\\base.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.compiler',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\oracle\\compiler.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.validation',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\oracle\\validation.py',
+   'PYMODULE'),
+  ('django.db.backends.base.validation',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\base\\validation.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\oracle\\utils.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.schema',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\oracle\\schema.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.operations',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\oracle\\operations.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\oracle\\__init__.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.introspection',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\oracle\\introspection.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.features',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\oracle\\features.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.creation',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\oracle\\creation.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.client',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\oracle\\client.py',
+   'PYMODULE'),
+  ('django.db.backends.mysql.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\mysql\\base.py',
+   'PYMODULE'),
+  ('django.db.backends.mysql.compiler',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\mysql\\compiler.py',
+   'PYMODULE'),
+  ('django.db.backends.mysql',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\mysql\\__init__.py',
+   'PYMODULE'),
+  ('django.db.backends.mysql.validation',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\mysql\\validation.py',
+   'PYMODULE'),
+  ('django.db.backends.mysql.schema',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\mysql\\schema.py',
+   'PYMODULE'),
+  ('django.db.backends.mysql.operations',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\mysql\\operations.py',
+   'PYMODULE'),
+  ('django.db.backends.mysql.introspection',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\mysql\\introspection.py',
+   'PYMODULE'),
+  ('django.db.backends.mysql.features',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\mysql\\features.py',
+   'PYMODULE'),
+  ('django.db.backends.mysql.creation',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\mysql\\creation.py',
+   'PYMODULE'),
+  ('django.db.backends.mysql.client',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\mysql\\client.py',
+   'PYMODULE'),
+  ('django.db.backends.dummy.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\dummy\\base.py',
+   'PYMODULE'),
+  ('django.db.backends.dummy',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('django.db.backends.dummy.features',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\dummy\\features.py',
+   'PYMODULE'),
+  ('django.db.backends.base.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\base\\base.py',
+   'PYMODULE'),
+  ('django.db.backends.signals',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\signals.py',
+   'PYMODULE'),
+  ('django.db.models.sql.compiler',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\sql\\compiler.py',
+   'PYMODULE'),
+  ('django.utils.inspect',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\inspect.py',
+   'PYMODULE'),
+  ('django.db.models.sql.query',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\sql\\query.py',
+   'PYMODULE'),
+  ('django.db.models.sql.subqueries',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\sql\\subqueries.py',
+   'PYMODULE'),
+  ('django.db.models.sql.datastructures',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\sql\\datastructures.py',
+   'PYMODULE'),
+  ('django.db.models.sql.constants',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\sql\\constants.py',
+   'PYMODULE'),
+  ('django.core.checks',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\checks\\__init__.py',
+   'PYMODULE'),
+  ('django.core.checks.urls',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\checks\\urls.py',
+   'PYMODULE'),
+  ('django.core.checks.translation',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\checks\\translation.py',
+   'PYMODULE'),
+  ('django.core.checks.templates',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\checks\\templates.py',
+   'PYMODULE'),
+  ('django.core.checks.security.sessions',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\checks\\security\\sessions.py',
+   'PYMODULE'),
+  ('django.core.checks.security',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\checks\\security\\__init__.py',
+   'PYMODULE'),
+  ('django.core.checks.security.csrf',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\checks\\security\\csrf.py',
+   'PYMODULE'),
+  ('django.core.checks.security.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\checks\\security\\base.py',
+   'PYMODULE'),
+  ('django.core.checks.database',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\checks\\database.py',
+   'PYMODULE'),
+  ('django.core.checks.caches',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\checks\\caches.py',
+   'PYMODULE'),
+  ('django.core.cache',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\cache\\__init__.py',
+   'PYMODULE'),
+  ('django.core.cache.backends.db',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\cache\\backends\\db.py',
+   'PYMODULE'),
+  ('django.core.cache.backends.dummy',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\cache\\backends\\dummy.py',
+   'PYMODULE'),
+  ('django.core.cache.backends.locmem',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\cache\\backends\\locmem.py',
+   'PYMODULE'),
+  ('django.core.cache.backends.filebased',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\cache\\backends\\filebased.py',
+   'PYMODULE'),
+  ('django.core.files.move',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\files\\move.py',
+   'PYMODULE'),
+  ('django.core.cache.backends',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\cache\\backends\\__init__.py',
+   'PYMODULE'),
+  ('django.core.cache.backends.memcached',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\cache\\backends\\memcached.py',
+   'PYMODULE'),
+  ('django.core.cache.backends.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\cache\\backends\\base.py',
+   'PYMODULE'),
+  ('django.core.checks.registry',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\checks\\registry.py',
+   'PYMODULE'),
+  ('django.core.checks.messages',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\checks\\messages.py',
+   'PYMODULE'),
+  ('django.forms',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\forms\\__init__.py',
+   'PYMODULE'),
+  ('django.forms.widgets',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\forms\\widgets.py',
+   'PYMODULE'),
+  ('django.forms.renderers',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\forms\\renderers.py',
+   'PYMODULE'),
+  ('django.template.backends.jinja2',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\template\\backends\\jinja2.py',
+   'PYMODULE'),
+  ('django.template.backends.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\template\\backends\\utils.py',
+   'PYMODULE'),
+  ('django.utils.topological_sort',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\topological_sort.py',
+   'PYMODULE'),
+  ('django.utils.dates',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\dates.py',
+   'PYMODULE'),
+  ('django.templatetags.static',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\templatetags\\static.py',
+   'PYMODULE'),
+  ('django.templatetags',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\templatetags\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles.storage',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\staticfiles\\storage.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\staticfiles\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles.finders',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\staticfiles\\finders.py',
+   'PYMODULE'),
+  ('django.contrib',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.messages',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\messages\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.messages.api',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\messages\\api.py',
+   'PYMODULE'),
+  ('django.contrib.messages.storage',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\messages\\storage\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.messages.constants',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\messages\\constants.py',
+   'PYMODULE'),
+  ('django.core.files.storage',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\files\\storage.py',
+   'PYMODULE'),
+  ('django.utils.deconstruct',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\deconstruct.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\staticfiles\\utils.py',
+   'PYMODULE'),
+  ('django.forms.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\forms\\utils.py',
+   'PYMODULE'),
+  ('django.forms.formsets',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\forms\\formsets.py',
+   'PYMODULE'),
+  ('django.forms.forms',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\forms\\forms.py',
+   'PYMODULE'),
+  ('django.forms.fields',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\forms\\fields.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('pipes',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\pipes.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('django.utils.ipv6',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\ipv6.py',
+   'PYMODULE'),
+  ('django.core.validators',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\validators.py',
+   'PYMODULE'),
+  ('django.forms.boundfield',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\forms\\boundfield.py',
+   'PYMODULE'),
+  ('django.forms.models',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\forms\\models.py',
+   'PYMODULE'),
+  ('django.db.models.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\base.py',
+   'PYMODULE'),
+  ('django.db.models.query_utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\query_utils.py',
+   'PYMODULE'),
+  ('django.db.models.query',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\query.py',
+   'PYMODULE'),
+  ('django.db.models.functions',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\functions\\__init__.py',
+   'PYMODULE'),
+  ('django.db.models.functions.window',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\functions\\window.py',
+   'PYMODULE'),
+  ('django.db.models.functions.text',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\functions\\text.py',
+   'PYMODULE'),
+  ('django.db.models.functions.math',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\functions\\math.py',
+   'PYMODULE'),
+  ('django.db.models.functions.mixins',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\functions\\mixins.py',
+   'PYMODULE'),
+  ('django.db.backends.oracle.functions',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\backends\\oracle\\functions.py',
+   'PYMODULE'),
+  ('django.db.models.functions.datetime',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\functions\\datetime.py',
+   'PYMODULE'),
+  ('django.db.models.functions.comparison',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\functions\\comparison.py',
+   'PYMODULE'),
+  ('django.db.models.manager',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\manager.py',
+   'PYMODULE'),
+  ('django.db.models.lookups',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\lookups.py',
+   'PYMODULE'),
+  ('django.db.models.indexes',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\indexes.py',
+   'PYMODULE'),
+  ('django.db.models.fields.proxy',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\fields\\proxy.py',
+   'PYMODULE'),
+  ('django.db.models.fields.files',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\fields\\files.py',
+   'PYMODULE'),
+  ('django.core.files.images',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\files\\images.py',
+   'PYMODULE'),
+  ('django.db.models.expressions',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\expressions.py',
+   'PYMODULE'),
+  ('django.db.models.deletion',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\deletion.py',
+   'PYMODULE'),
+  ('django.db.models.constraints',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\constraints.py',
+   'PYMODULE'),
+  ('django.db.models.aggregates',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\aggregates.py',
+   'PYMODULE'),
+  ('django.db.models.signals',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\signals.py',
+   'PYMODULE'),
+  ('django.db.models.sql',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\sql\\__init__.py',
+   'PYMODULE'),
+  ('django.db.models.fields',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\models\\fields\\__init__.py',
+   'PYMODULE'),
+  ('django.db',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\__init__.py',
+   'PYMODULE'),
+  ('django.core.serializers.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\serializers\\base.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\uuid.py',
+   'PYMODULE'),
+  ('html.parser',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('django.utils.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\formats.py',
+   'PYMODULE'),
+  ('django.utils.module_loading',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\module_loading.py',
+   'PYMODULE'),
+  ('django.core.management.color',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\management\\color.py',
+   'PYMODULE'),
+  ('django.core.mail',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\mail\\__init__.py',
+   'PYMODULE'),
+  ('email.mime.audio',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\email\\mime\\audio.py',
+   'PYMODULE'),
+  ('email.mime',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\email\\mime\\__init__.py',
+   'PYMODULE'),
+  ('email.mime.nonmultipart',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\email\\mime\\nonmultipart.py',
+   'PYMODULE'),
+  ('email.mime.base',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\email\\mime\\base.py',
+   'PYMODULE'),
+  ('sndhdr',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\sndhdr.py',
+   'PYMODULE'),
+  ('wave',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\wave.py',
+   'PYMODULE'),
+  ('chunk',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\chunk.py',
+   'PYMODULE'),
+  ('aifc',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\aifc.py',
+   'PYMODULE'),
+  ('email.mime.multipart',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\email\\mime\\multipart.py',
+   'PYMODULE'),
+  ('email.mime.text',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\email\\mime\\text.py',
+   'PYMODULE'),
+  ('email.mime.image',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\email\\mime\\image.py',
+   'PYMODULE'),
+  ('imghdr',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\imghdr.py',
+   'PYMODULE'),
+  ('email.mime.message',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\email\\mime\\message.py',
+   'PYMODULE'),
+  ('django.core.mail.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\mail\\utils.py',
+   'PYMODULE'),
+  ('django.core.mail.message',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\mail\\message.py',
+   'PYMODULE'),
+  ('django.core',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\__init__.py',
+   'PYMODULE'),
+  ('django.core.signing',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\signing.py',
+   'PYMODULE'),
+  ('logging.config',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\logging\\config.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\configparser.py',
+   'PYMODULE'),
+  ('logging.handlers',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\logging\\handlers.py',
+   'PYMODULE'),
+  ('smtplib',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\smtplib.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\hmac.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\queue.py',
+   'PYMODULE'),
+  ('django.utils.http',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\http.py',
+   'PYMODULE'),
+  ('django.utils.crypto',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\crypto.py',
+   'PYMODULE'),
+  ('django.utils.cache',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\cache.py',
+   'PYMODULE'),
+  ('django.template.loader',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\template\\loader.py',
+   'PYMODULE'),
+  ('django.template',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\template\\__init__.py',
+   'PYMODULE'),
+  ('django.http',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\http\\__init__.py',
+   'PYMODULE'),
+  ('django.http.response',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\http\\response.py',
+   'PYMODULE'),
+  ('django.http.request',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\http\\request.py',
+   'PYMODULE'),
+  ('django.http.multipartparser',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\http\\multipartparser.py',
+   'PYMODULE'),
+  ('cgi',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\cgi.py',
+   'PYMODULE'),
+  ('django.http.cookie',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\http\\cookie.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('django.views',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\views\\__init__.py',
+   'PYMODULE'),
+  ('django.views.generic.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\views\\generic\\base.py',
+   'PYMODULE'),
+  ('django.views.generic',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\views\\generic\\__init__.py',
+   'PYMODULE'),
+  ('django.views.generic.list',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\views\\generic\\list.py',
+   'PYMODULE'),
+  ('django.core.paginator',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\paginator.py',
+   'PYMODULE'),
+  ('django.views.generic.edit',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\views\\generic\\edit.py',
+   'PYMODULE'),
+  ('django.views.generic.detail',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\views\\generic\\detail.py',
+   'PYMODULE'),
+  ('django.views.generic.dates',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\views\\generic\\dates.py',
+   'PYMODULE'),
+  ('django.template.response',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\template\\response.py',
+   'PYMODULE'),
+  ('django.utils.deprecation',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\deprecation.py',
+   'PYMODULE'),
+  ('django.core.exceptions',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\exceptions.py',
+   'PYMODULE'),
+  ('django.conf.global_settings',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\global_settings.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('django.utils.datetime_safe',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\datetime_safe.py',
+   'PYMODULE'),
+  ('django.utils.dateformat',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\dateformat.py',
+   'PYMODULE'),
+  ('django.utils.timezone',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\timezone.py',
+   'PYMODULE'),
+  ('django.utils.six',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\six.py',
+   'PYMODULE'),
+  ('django',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\__init__.py',
+   'PYMODULE'),
+  ('proyecto_ejemplo.wsgi',
+   'C:\\Users\\Diego '
+   'M\\Documents\\SoftwareParqueadero\\electron\\holamundo\\mi-app-django2\\proyecto_ejemplo\\wsgi.py',
+   'PYMODULE'),
+  ('proyecto_ejemplo',
+   'C:\\Users\\Diego '
+   'M\\Documents\\SoftwareParqueadero\\electron\\holamundo\\mi-app-django2\\proyecto_ejemplo\\__init__.py',
+   'PYMODULE'),
+  ('django.core.wsgi',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\wsgi.py',
+   'PYMODULE'),
+  ('django.core.handlers.wsgi',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\handlers\\wsgi.py',
+   'PYMODULE'),
+  ('django.core.handlers.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\handlers\\base.py',
+   'PYMODULE'),
+  ('django.core.handlers.exception',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\handlers\\exception.py',
+   'PYMODULE'),
+  ('django.core.handlers',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\handlers\\__init__.py',
+   'PYMODULE'),
+  ('proyecto_ejemplo.urls',
+   'C:\\Users\\Diego '
+   'M\\Documents\\SoftwareParqueadero\\electron\\holamundo\\mi-app-django2\\proyecto_ejemplo\\urls.py',
+   'PYMODULE'),
+  ('proyecto_ejemplo.settings',
+   'C:\\Users\\Diego '
+   'M\\Documents\\SoftwareParqueadero\\electron\\holamundo\\mi-app-django2\\proyecto_ejemplo\\settings.py',
+   'PYMODULE'),
+  ('django.conf.locale.ru',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\ru\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.es_CO.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\es_CO\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.de',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\de\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.el',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\el\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.migrations',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\contenttypes\\migrations\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.auth.password_validation',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\password_validation.py',
+   'PYMODULE'),
+  ('django.conf.locale.ml',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\ml\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.en_AU',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\en_AU\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.is.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\is\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.admin.forms',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\forms.py',
+   'PYMODULE'),
+  ('django.conf.locale.da',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\da\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.zh_Hans',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\zh_Hans\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.bs.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\bs\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.cs.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\cs\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.en_AU.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\en_AU\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.de.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\de\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.admin.tests',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\tests.py',
+   'PYMODULE'),
+  ('django.test.selenium',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\test\\selenium.py',
+   'PYMODULE'),
+  ('django.test',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\test\\__init__.py',
+   'PYMODULE'),
+  ('django.test.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\test\\utils.py',
+   'PYMODULE'),
+  ('django.test.testcases',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\test\\testcases.py',
+   'PYMODULE'),
+  ('django.views.static',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\views\\static.py',
+   'PYMODULE'),
+  ('django.test.html',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\test\\html.py',
+   'PYMODULE'),
+  ('django.core.servers.basehttp',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\servers\\basehttp.py',
+   'PYMODULE'),
+  ('django.core.servers',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\servers\\__init__.py',
+   'PYMODULE'),
+  ('wsgiref.simple_server',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\wsgiref\\simple_server.py',
+   'PYMODULE'),
+  ('wsgiref.handlers',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\wsgiref\\handlers.py',
+   'PYMODULE'),
+  ('wsgiref.headers',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\wsgiref\\headers.py',
+   'PYMODULE'),
+  ('wsgiref.util',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\wsgiref\\util.py',
+   'PYMODULE'),
+  ('wsgiref',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\wsgiref\\__init__.py',
+   'PYMODULE'),
+  ('django.core.management.sql',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\management\\sql.py',
+   'PYMODULE'),
+  ('django.test.client',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\test\\client.py',
+   'PYMODULE'),
+  ('django.test.signals',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\test\\signals.py',
+   'PYMODULE'),
+  ('django.contrib.auth.management.commands.changepassword',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\management\\commands\\changepassword.py',
+   'PYMODULE'),
+  ('django.core.management.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\management\\base.py',
+   'PYMODULE'),
+  ('django.db.migrations.executor',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\db\\migrations\\executor.py',
+   'PYMODULE'),
+  ('django.contrib.auth.management.commands', '-', 'PYMODULE'),
+  ('django.contrib.staticfiles.testing',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\staticfiles\\testing.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles.handlers',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\staticfiles\\handlers.py',
+   'PYMODULE'),
+  ('django.contrib.staticfiles.views',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\staticfiles\\views.py',
+   'PYMODULE'),
+  ('django.conf.locale.eu.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\eu\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.es_NI.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\es_NI\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.pt',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\pt\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.ga.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\ga\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.migrations',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\flatpages\\migrations\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admindocs',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admindocs\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.te',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\te\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.sk',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\sk\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.auth.views',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\views.py',
+   'PYMODULE'),
+  ('django.views.decorators.debug',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\views\\decorators\\debug.py',
+   'PYMODULE'),
+  ('django.views.decorators.cache',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\views\\decorators\\cache.py',
+   'PYMODULE'),
+  ('django.middleware.cache',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\middleware\\cache.py',
+   'PYMODULE'),
+  ('django.shortcuts',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\shortcuts.py',
+   'PYMODULE'),
+  ('django.contrib.sites.shortcuts',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\sites\\shortcuts.py',
+   'PYMODULE'),
+  ('django.contrib.sites',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\sites\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.sites.requests',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\sites\\requests.py',
+   'PYMODULE'),
+  ('django.contrib.sites.models',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\sites\\models.py',
+   'PYMODULE'),
+  ('django.conf.locale.ro.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\ro\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.vi',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\vi\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.es_PR',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\es_PR\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.vi.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\vi\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.auth.validators',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\validators.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0011_update_proxy_permissions',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0011_update_proxy_permissions.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.urls',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\flatpages\\urls.py',
+   'PYMODULE'),
+  ('django.conf.locale.zh_Hant',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\zh_Hant\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.id.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\id\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.pl',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\pl\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admindocs.middleware',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admindocs\\middleware.py',
+   'PYMODULE'),
+  ('django.conf.locale.kn',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\kn\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.cy',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\cy\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.ar.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\ar\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.gis',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.forms',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\forms\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.forms.widgets',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\forms\\widgets.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.polygon',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\polygon.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.point',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\point.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.linestring',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\linestring.py',
+   'PYMODULE'),
+  ('django.contrib.gis.shortcuts',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\shortcuts.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.coordseq',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\coordseq.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\base.py',
+   'PYMODULE'),
+  ('django.contrib.gis.ptr',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\ptr.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.libgeos',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\libgeos.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prototypes.threadsafe',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\prototypes\\threadsafe.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.io',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\io.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prototypes.io',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\prototypes\\io.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prototypes.geom',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\prototypes\\geom.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prototypes.errcheck',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\prototypes\\errcheck.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.geometry',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\geometry.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prepared',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\prepared.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prototypes.prepared',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\prototypes\\prepared.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.mutable_list',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\mutable_list.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.factory',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\factory.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.error',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\error.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.collections',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\collections.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prototypes',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\prototypes\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prototypes.topology',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\prototypes\\topology.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prototypes.predicates',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\prototypes\\predicates.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prototypes.misc',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\prototypes\\misc.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geos.prototypes.coordseq',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geos\\prototypes\\coordseq.py',
+   'PYMODULE'),
+  ('django.contrib.gis.geometry',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\geometry.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.srs',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\srs.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.prototypes.srs',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\prototypes\\srs.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.prototypes.generation',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\prototypes\\generation.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.prototypes.errcheck',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\prototypes\\errcheck.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.prototypes',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\prototypes\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.prototypes.geom',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\prototypes\\geom.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.prototypes.raster',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\prototypes\\raster.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.prototypes.ds',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\prototypes\\ds.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\base.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.raster.source',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\raster\\source.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.raster',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\raster\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.raster.const',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\raster\\const.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.raster.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\raster\\base.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.raster.band',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\raster\\band.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.libgdal',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\libgdal.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.geomtype',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\geomtype.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.geometries',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\geometries.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.error',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\error.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.envelope',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\envelope.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.driver',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\driver.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.datasource',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\datasource.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.layer',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\layer.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.field',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\field.py',
+   'PYMODULE'),
+  ('django.contrib.gis.gdal.feature',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\gdal\\feature.py',
+   'PYMODULE'),
+  ('django.contrib.gis.forms.fields',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\forms\\fields.py',
+   'PYMODULE'),
+  ('django.conf.locale.en_GB',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\en_GB\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.fi',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\fi\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.ar',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\ar\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admin.widgets',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\widgets.py',
+   'PYMODULE'),
+  ('django.urls.exceptions',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\urls\\exceptions.py',
+   'PYMODULE'),
+  ('django.conf.locale.nb.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\nb\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.hr.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\hr\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0005_alter_user_last_login_null',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0005_alter_user_last_login_null.py',
+   'PYMODULE'),
+  ('django.conf.locale.nn.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\nn\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.sl.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\sl\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.nn',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\nn\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.uk',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\uk\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.lt',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\lt\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.gl',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\gl\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admin.sites',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\sites.py',
+   'PYMODULE'),
+  ('django.views.i18n',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\views\\i18n.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.views',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\flatpages\\views.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\contenttypes\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admindocs.urls',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admindocs\\urls.py',
+   'PYMODULE'),
+  ('django.conf.locale.sr.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\sr\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.mk',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\mk\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.auth.context_processors',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\context_processors.py',
+   'PYMODULE'),
+  ('django.contrib.admin.views.main',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\views\\main.py',
+   'PYMODULE'),
+  ('django.conf.locale.it.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\it\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\migrations\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0009_alter_user_last_name_max_length',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0009_alter_user_last_name_max_length.py',
+   'PYMODULE'),
+  ('django.conf.locale.es',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\es\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.cs',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\cs\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.uk.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\uk\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0007_alter_validators_add_error_messages',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0007_alter_validators_add_error_messages.py',
+   'PYMODULE'),
+  ('django.conf.locale.is',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\is\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.he',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\he\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.fy',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\fy\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.migrations.0001_initial',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\contenttypes\\migrations\\0001_initial.py',
+   'PYMODULE'),
+  ('django.conf.locale.en_GB.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\en_GB\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.it',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\it\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.ko',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\ko\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.nl.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\nl\\formats.py',
+   'PYMODULE'),
+  ('django.conf.urls.static',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\urls\\static.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.admin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\contenttypes\\admin.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.templatetags',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\flatpages\\templatetags\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.bg',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\bg\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.views',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\contenttypes\\views.py',
+   'PYMODULE'),
+  ('django.contrib.auth.tokens',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\tokens.py',
+   'PYMODULE'),
+  ('django.contrib.admin.migrations.0002_logentry_remove_auto_add',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\migrations\\0002_logentry_remove_auto_add.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.fields',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\contenttypes\\fields.py',
+   'PYMODULE'),
+  ('django.contrib.auth.forms',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\forms.py',
+   'PYMODULE'),
+  ('django.contrib.auth.backends',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\backends.py',
+   'PYMODULE'),
+  ('django.conf.locale.pt.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\pt\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0002_alter_permission_name_max_length',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0002_alter_permission_name_max_length.py',
+   'PYMODULE'),
+  ('django.conf.locale.hu',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\hu\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.km',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\km\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.es_MX.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\es_MX\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.auth.models',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\models.py',
+   'PYMODULE'),
+  ('django.contrib.auth.hashers',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\hashers.py',
+   'PYMODULE'),
+  ('django.contrib.admin.actions',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\actions.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.management',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\contenttypes\\management\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admin.filters',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\filters.py',
+   'PYMODULE'),
+  ('django.conf.locale.ta',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\ta\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admindocs.apps',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admindocs\\apps.py',
+   'PYMODULE'),
+  ('django.conf.locale.sk.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\sk\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.ja',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\ja\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admin.migrations.0003_logentry_add_action_flag_choices',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\migrations\\0003_logentry_add_action_flag_choices.py',
+   'PYMODULE'),
+  ('django.conf.locale.fi.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\fi\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.es_AR',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\es_AR\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.models',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\contenttypes\\models.py',
+   'PYMODULE'),
+  ('django.contrib.auth.urls',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\urls.py',
+   'PYMODULE'),
+  ('django.contrib.admin.views.decorators',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\views\\decorators.py',
+   'PYMODULE'),
+  ('django.conf.locale.tr',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\tr\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.ta.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\ta\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.ko.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\ko\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.he.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\he\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.forms',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\flatpages\\forms.py',
+   'PYMODULE'),
+  ('django.conf.locale.es_AR.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\es_AR\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0010_alter_group_name_max_length',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0010_alter_group_name_max_length.py',
+   'PYMODULE'),
+  ('django.conf.locale.da.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\da\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.sv.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\sv\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.middleware',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\flatpages\\middleware.py',
+   'PYMODULE'),
+  ('django.contrib.auth',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.apps',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\flatpages\\apps.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.admin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\flatpages\\admin.py',
+   'PYMODULE'),
+  ('django.contrib.auth.apps',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\apps.py',
+   'PYMODULE'),
+  ('django.contrib.admin.views',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\views\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.sq.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\sq\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.admin.templatetags',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\templatetags\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.urls.i18n',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\urls\\i18n.py',
+   'PYMODULE'),
+  ('django.conf.locale.nl',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\nl\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.auth.signals',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\signals.py',
+   'PYMODULE'),
+  ('django.contrib.auth.handlers.modwsgi',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\handlers\\modwsgi.py',
+   'PYMODULE'),
+  ('django.contrib.admin.templatetags.admin_list',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\templatetags\\admin_list.py',
+   'PYMODULE'),
+  ('django.conf.locale.sr_Latn.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\sr_Latn\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.zh_Hant.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\zh_Hant\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.auth.base_user',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\base_user.py',
+   'PYMODULE'),
+  ('django.contrib.admin.models',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\models.py',
+   'PYMODULE'),
+  ('django.conf.locale.de_CH',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\de_CH\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.mk.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\mk\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.admindocs.views',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admindocs\\views.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.models',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\flatpages\\models.py',
+   'PYMODULE'),
+  ('django.conf.locale.en',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\en\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.th.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\th\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.mn.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\mn\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\flatpages\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admin.apps',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\apps.py',
+   'PYMODULE'),
+  ('django.conf.locale.gd.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\gd\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.az',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\az\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.lv.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\lv\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.templatetags.flatpages',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\flatpages\\templatetags\\flatpages.py',
+   'PYMODULE'),
+  ('django.contrib.auth.mixins',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\mixins.py',
+   'PYMODULE'),
+  ('django.conf.locale.id',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\id\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admin.views.autocomplete',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\views\\autocomplete.py',
+   'PYMODULE'),
+  ('django.contrib.admin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.et.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\et\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.sr_Latn',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\sr_Latn\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.hi.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\hi\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.gl.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\gl\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.de_CH.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\de_CH\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.es_CO',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\es_CO\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.hr',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\hr\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admin.options',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\options.py',
+   'PYMODULE'),
+  ('django.conf.locale.gd',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\gd\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.en.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\en\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.pl.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\pl\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.pt_BR.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\pt_BR\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.ka',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\ka\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0001_initial',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0001_initial.py',
+   'PYMODULE'),
+  ('django.contrib.admin.templatetags.admin_static',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\templatetags\\admin_static.py',
+   'PYMODULE'),
+  ('django.conf.locale.es.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\es\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0006_require_contenttypes_0002',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0006_require_contenttypes_0002.py',
+   'PYMODULE'),
+  ('django.conf.locale.sr',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\sr\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.ga',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\ga\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0008_alter_user_username_max_length',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0008_alter_user_username_max_length.py',
+   'PYMODULE'),
+  ('django.contrib.auth.admin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\admin.py',
+   'PYMODULE'),
+  ('django.conf.locale.fr',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\fr\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.lt.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\lt\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.auth.management',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\management\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.sq',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\sq\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admindocs.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admindocs\\utils.py',
+   'PYMODULE'),
+  ('django.conf.locale.ka.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\ka\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.zh_Hans.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\zh_Hans\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.ca.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\ca\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.forms',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\contenttypes\\forms.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.sitemaps',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\flatpages\\sitemaps.py',
+   'PYMODULE'),
+  ('django.contrib.sitemaps',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\sitemaps\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.km.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\km\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0003_alter_user_email_max_length',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0003_alter_user_email_max_length.py',
+   'PYMODULE'),
+  ('django.conf.locale.kn.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\kn\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.auth.checks',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\checks.py',
+   'PYMODULE'),
+  ('django.contrib.admin.checks',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\checks.py',
+   'PYMODULE'),
+  ('django.conf.locale.es_PR.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\es_PR\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.fr.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\fr\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.sv',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\sv\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.fa.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\fa\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.cy.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\cy\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.es_NI',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\es_NI\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.el.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\el\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.admin.migrations.0001_initial',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\migrations\\0001_initial.py',
+   'PYMODULE'),
+  ('django.conf.locale.ca',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\ca\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.auth.migrations.0004_alter_user_username_opts',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\migrations\\0004_alter_user_username_opts.py',
+   'PYMODULE'),
+  ('django.contrib.admin.exceptions',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\exceptions.py',
+   'PYMODULE'),
+  ('django.contrib.admin.decorators',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\decorators.py',
+   'PYMODULE'),
+  ('django.contrib.admin.templatetags.admin_modify',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\templatetags\\admin_modify.py',
+   'PYMODULE'),
+  ('django.conf.locale.te.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\te\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.bs',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\bs\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.auth.decorators',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\decorators.py',
+   'PYMODULE'),
+  ('django.contrib.auth.handlers',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\handlers\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.migrations.0002_remove_content_type_name',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\contenttypes\\migrations\\0002_remove_content_type_name.py',
+   'PYMODULE'),
+  ('django.contrib.admin.templatetags.log',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\templatetags\\log.py',
+   'PYMODULE'),
+  ('django.conf.locale.az.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\az\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.th',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\th\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.bn',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\bn\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admin.templatetags.admin_urls',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\templatetags\\admin_urls.py',
+   'PYMODULE'),
+  ('django.conf.locale.ro',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\ro\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.eo',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\eo\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.eu',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\eu\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.es_MX',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\es_MX\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.tr.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\tr\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.bg.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\bg\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.mn',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\mn\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.hi',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\hi\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.bn.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\bn\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.fa',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\fa\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.ja.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\ja\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.auth.middleware',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\auth\\middleware.py',
+   'PYMODULE'),
+  ('django.conf.locale.fy.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\fy\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.checks',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\contenttypes\\checks.py',
+   'PYMODULE'),
+  ('django.conf.locale.nb',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\nb\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.pt_BR',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\pt_BR\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admin.helpers',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\helpers.py',
+   'PYMODULE'),
+  ('django.contrib.admin.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\utils.py',
+   'PYMODULE'),
+  ('django.contrib.admin.migrations',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\migrations\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.eo.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\eo\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.sl',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\sl\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.ml.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\ml\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.contenttypes.apps',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\contenttypes\\apps.py',
+   'PYMODULE'),
+  ('django.conf.locale.ru.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\ru\\formats.py',
+   'PYMODULE'),
+  ('django.contrib.flatpages.migrations.0001_initial',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\flatpages\\migrations\\0001_initial.py',
+   'PYMODULE'),
+  ('django.contrib.gis.admin',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\admin\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.admin.widgets',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\admin\\widgets.py',
+   'PYMODULE'),
+  ('django.contrib.gis.admin.options',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\admin\\options.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.models',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\db\\models\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.models.fields',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\db\\models\\fields.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.models.proxy',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\db\\models\\proxy.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.models.aggregates',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\db\\models\\aggregates.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.models.lookups',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\db\\models\\lookups.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.models.functions',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\db\\models\\functions.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.models.sql',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\db\\models\\sql\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db.models.sql.conversion',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\db\\models\\sql\\conversion.py',
+   'PYMODULE'),
+  ('django.contrib.gis.measure',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\measure.py',
+   'PYMODULE'),
+  ('django.contrib.gis.db',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\gis\\db\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.hu.formats',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\hu\\formats.py',
+   'PYMODULE'),
+  ('django.conf.locale.et',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\et\\__init__.py',
+   'PYMODULE'),
+  ('django.conf.locale.lv',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\conf\\locale\\lv\\__init__.py',
+   'PYMODULE'),
+  ('django.contrib.admin.templatetags.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\contrib\\admin\\templatetags\\base.py',
+   'PYMODULE'),
+  ('django.urls',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\urls\\__init__.py',
+   'PYMODULE'),
+  ('django.urls.utils',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\urls\\utils.py',
+   'PYMODULE'),
+  ('django.urls.resolvers',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\urls\\resolvers.py',
+   'PYMODULE'),
+  ('django.utils.regex_helper',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\regex_helper.py',
+   'PYMODULE'),
+  ('django.urls.converters',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\urls\\converters.py',
+   'PYMODULE'),
+  ('django.urls.conf',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\urls\\conf.py',
+   'PYMODULE'),
+  ('django.urls.base',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\urls\\base.py',
+   'PYMODULE'),
+  ('django.__main__',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\__main__.py',
+   'PYMODULE'),
+  ('django.utils.version',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\version.py',
+   'PYMODULE'),
+  ('django.utils.functional',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\utils\\functional.py',
+   'PYMODULE'),
+  ('django.dispatch',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\dispatch\\__init__.py',
+   'PYMODULE'),
+  ('django.dispatch.dispatcher',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\dispatch\\dispatcher.py',
+   'PYMODULE'),
+  ('django.core.signals',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\signals.py',
+   'PYMODULE'),
+  ('django.apps',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\apps\\__init__.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\datetime.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\typing.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\struct.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\__future__.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\difflib.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\ast.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\inspect.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\cmd.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\bdb.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\opcode.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\dis.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\codeop.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\code.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\glob.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\shlex.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\runpy.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\platform.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\tty.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\ssl.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\optparse.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\uu.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\quopri.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\calendar.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\base64.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\bisect.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\random.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\bz2.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\_compression.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\gzip.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\shutil.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\socket.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\getopt.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\pdb.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\string.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\doctest.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\stat.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\signal.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\threading.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\selectors.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\gettext.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\copy.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\argparse.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\pprint.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\pickle.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('django.core.management',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\django\\core\\management\\__init__.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\os.py',
+   'PYMODULE')])

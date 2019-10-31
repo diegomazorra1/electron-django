@@ -1,0 +1,143 @@
+{%load staticfiles %}
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+  <head>
+    <link rel="shortcut icon" type="image/png" href="{% static 'Usco_logo.png' %}"/>
+    <title>{% block title %}  {% endblock %} | SASRU</title>
+
+    <meta charset="utf-8">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js">
+
+    </script>
+
+    <script type="text/javascript" src="{% static 'js/ajax.js' %}">
+
+    </script>
+
+
+
+  </head>
+  <body >
+
+
+
+
+      {% block navbar %}
+
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="{% url 'banco:setpoint1' %}">
+          <img src="{% static 'imagenes/Usco_logo.png' %}" width="30" height="30" class="d-inline-block align-top" alt="">
+          SASRU
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+
+
+
+
+
+            <li class="nav-item dropdown">
+
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Recarga
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item"   href="{% url 'banco:banco_crear' %}"> Manual </a>
+                <a class="dropdown-item"  href="{% url 'rfid:inicio' %}"> RFID</a>
+              </div>
+            </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <li class="nav-item dropdown">
+
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                RFID
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item"  href="{% url 'rfid:inicio_autorizar' %}">Validación</a>
+              </div>
+            </li>
+
+
+
+
+
+                <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Estadisticas
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="{% url 'banco:banco_lista' %}">Lista de Transacciones</a>
+                <a class="dropdown-item" href="{% url 'usuarios:usuario_listas' %}">Lista de Usuarios</a>
+                <a class="dropdown-item" href="{% url 'rfid:vista_cupos' %}">Cupos disponibles del dia </a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="{% url 'usuarios:usuario_registro' %}">Registro de Usuario</a>
+              </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="{% url 'usuarios:usuario_crear' %}">Nuevo Usuario </a>
+            </li>
+
+          </ul>
+          <form class="form-inline my-2 my-lg-0 "  method="POST"  action="busquedas1/">
+            <input class="form-control mr-sm-2 " name="buscalo" type="search" placeholder="Busqueda por codigo" aria-label="Busqueda ">{% csrf_token %}
+            <button class="btn btn-outline-success my-2 my-sm-0 " type="submit">Busqueda</button>
+          </form>
+        </div>
+
+
+
+          <form class="form-inline">
+
+          <a href="{% url 'logout' %}" class="btn btn-primary btn-sm " role="button" > Cerrar sesion</a>
+
+
+          </form>
+
+
+      </nav>
+      {% endblock %}
+
+
+<div class="container">
+   {% block content %}
+
+   <h5> Este es el contenido del archivo base </h5>
+
+   {% endblock %}
+
+   {% block footer %}
+   {% endblock  %}
+
+
+  </div>
+
+
+
+
+  </body>
+</html>

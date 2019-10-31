@@ -1,0 +1,7 @@
+C:\Users\Diego M\Desktop\CARPETA TESIS\ProyectosDjango\SASRU>manage.py createsuperuser
+Nombre de usuario (leave blank to use 'diegom'): admin
+Dirección de correo electrónico: ingenierodiegomazorra@gmail.com
+Password: 1075289704mazorra
+Password (again): 1075289704mazorra
+Superuser created successfully.
+	

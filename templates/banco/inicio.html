@@ -1,0 +1,71 @@
+{% extends 'base/base.html' %}
+
+{% block title %} Cupos autorizados {% endblock %}
+
+
+
+
+
+
+
+
+
+
+{% block content %}
+
+
+
+
+{% if validacion == False %}
+
+<div class="container">
+	<br>
+	<br>
+	<br>
+
+
+	<h2>Ya se asigno el numero de cupos del dia</h2>
+
+
+
+
+
+{% else %}
+
+
+
+
+<div class="container">
+
+
+<h4> COMPLETE LA INFORMACION  </h4>
+
+
+
+<form method="post">
+	{% csrf_token %}
+	{{ form.as_p }}
+
+  <button class="btn btn-primary "type="submit">Guardar</button>
+</form>
+
+
+<h4></h4>
+<h4></h4>
+
+{% endif %}
+{% endblock %}
+
+
+
+
+
+
+{% block footer %}
+
+
+
+
+
+
+{% endblock%}

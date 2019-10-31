@@ -1,0 +1,174 @@
+{% extends 'rfid/identificador_rfid.html' %}
+{% block title %} Autorizacion  {% endblock %}
+
+{% block content %}
+
+<div class="container">
+  <div class="row justify-content-center">
+  <div class="jumbotron">
+    <h3 class="text-center">IDENTIFICADOR RFID  <div class="col-12"</h3>
+
+      <form class="form-center"    action="/Rfid/Autorizar" >
+        <button class="btn btn-outline-success my-2 my-sm-0 " type="submit">ACTIVAR</button>
+      </form>
+
+  </div>
+    </div>
+      </div>
+
+
+
+{% endblock%}
+
+
+{% block footer %}
+<div class="container">
+
+
+
+
+   {% if result == True  %}
+
+
+
+      <table class="table table-bordered">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">apellidos</th>
+            <th scope="col">codigo</th>
+            <th scope="col">programa </th>
+            <th scope="col">Uid</th>
+            <th scope="col">Saldo</th>
+            <th scope="col">Estado</th>
+
+            <th scope="col">Acciones</th>
+
+
+
+
+           </tr>
+
+         </thead>
+         <tbody>
+
+   {% for usuario in user1 %}
+      <tr>
+
+                     <td>{{ usuario.id }}</td>
+                     <td>{{ usuario.nombre }}</td>
+                     <td>{{ usuario.apellidos }}</td>
+                     <td>{{ usuario.codigo }}</td>
+                     <td>{{ usuario.programa}}</td>
+                     <td>{{ usuario.uid}}</td>
+                     <td>{{ usuario.saldo}}</td>
+                     <td> Tiene servicio de {{  nombre_servicio }}</td>
+
+
+
+                           <td>
+                             <a class="btn btn-primary" href="{% url  'rfid:descuento_autorizacion' usuario.id %}">Validar</a>
+                            <!-- <a class="btn btn-primary" href="{% url 'rfid:saldo_editar' usuario.id %}">Editar</a>   --->
+                           </td>
+                         </tr>
+
+
+
+
+
+                            <div class="row justify-content-center">
+
+                             {% if usuario.foto %}
+                             <img class="center" src="{{ usuario.foto.url}}" width="190" height="190" display="block">
+
+                             {% endif %}
+
+
+
+
+
+
+
+
+   {% endfor %}
+ <tr>
+<br>
+    {% elif resulta == True %}
+
+    <h1>No es valida la tarjeta </h1>
+
+
+    {% elif result == False %}
+
+
+    <table class="table table-bordered">
+      <thead class="thead-dark">
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Nombre</th>
+          <th scope="col">apellidos</th>
+          <th scope="col">codigo</th>
+          <th scope="col">programa </th>
+          <th scope="col">Uid</th>
+          <th scope="col">Saldo</th>
+          <th scope="col">Estado</th>
+
+
+
+
+
+
+         </tr>
+
+       </thead>
+       <tbody>
+
+ {% for usuario in user1 %}
+    <tr>
+
+                   <td>{{ usuario.id }}</td>
+                   <td>{{ usuario.nombre }}</td>
+                   <td>{{ usuario.apellidos }}</td>
+                   <td>{{ usuario.codigo }}</td>
+                   <td>{{ usuario.programa}}</td>
+                   <td>{{ usuario.uid}}</td>
+                   <td>{{ usuario.saldo}}</td>
+                   <td> No tiene servicio  {{  nombre_servicio }}</td>
+
+
+
+
+
+
+
+
+
+                          <div class="row justify-content-center">
+
+                           {% if usuario.foto %}
+                           <img class="center" src="{{ usuario.foto.url}}" width="190" height="190" display="block">
+
+                           {% endif %}
+
+
+
+
+
+
+
+
+ {% endfor %}
+<tr>
+<br>
+
+
+
+
+
+ {% endif %}
+
+
+</tbody>
+</table>
+{% endblock%}

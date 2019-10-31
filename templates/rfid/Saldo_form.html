@@ -1,0 +1,23 @@
+{% extends 'rfid/busqueda_rfid.html' %}
+
+{% block content %}
+
+<div class="container">
+
+
+<h4> COMPLETE LA INFORMACION  </h4>
+
+
+
+<form method="post">
+	{% csrf_token %}
+	{{ form.as_p }}
+
+	<button type="submit">Registrar</button>
+
+
+</form>
+
+<h4></h4>
+<h4></h4>
+{% endblock %}

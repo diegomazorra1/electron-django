@@ -1,0 +1,75 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "package-win": "electron-forge package --platform=win32 --arch=ia32",
+    "package-mac": "electron-forge package --platform=darwin --arch=x64",
+    "package-linux": "electron-forge package --platform=linux --arch=x64",
+    "make": "electron-forge make",
+    "lint": "standard",
+    "dev": "NODE_ENV=development electron src/main.js"
+  },
+  "repository": "https://github.com/diegomazorra1/electron-django.git ",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "babel-plugin-transform-async-to-generator": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "devtron": "^1.4.0",
+    "electron-forge": "^5.2.4",
+    "electron-prebuilt-compile": "4.0.0"
+  },
+  "dependencies": {
+    "cross-env": "^6.0.3",
+    "electron-compile": "^6.4.4",
+    "electron-squirrel-startup": "^1.0.0",
+    "request": "*",
+    "request-promise": "*",
+    "standard": "^14.3.1"
+  },
+  "config": {
+    "forge": {
+      "make_targets": {
+        "win32": [
+          "squirrel"
+        ],
+        "darwin": [
+          "zip"
+        ],
+        "linux": [
+          "deb",
+          "rpm"
+        ]
+      },
+      "electronPackagerConfig": {
+        "packageManager": "npm",
+        "asar": true
+      },
+      "electronWinstallerConfig": {
+        "name": "electron_quick_start"
+      },
+      "electronInstallerDebian": {},
+      "electronInstallerRedhat": {},
+      "github_repository": {
+        "owner": "",
+        "name": ""
+      },
+      "windowsStoreConfig": {
+        "packageName": "",
+        "name": "electronquickstart"
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{% extends 'base/base.html' %}
+
+{% block title %} Lista de transacciones {% endblock %}
+
+
+
+
+{% block content %}
+
+<br>
+<br>
+    <div class="container">
+
+<table width="100%" class="table table-striped table-bordered table-hover " id="mytable">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Tipo de Transaccion</th>
+      <th scope="col">Codigo</th>
+      <th scope="col">Valor de Transaccion</th>
+      <th scope="col">Fecha de Transaccion </th>
+      <th scope="col">Nombre</th>
+
+    </tr>
+  </thead>
+
+
+	<tbody>
+		{% if object_list %}
+		{% for Transaccion in object_list %}
+		<tr>
+			<td>{{ Transaccion.id }}</td>
+			<td>{{ Transaccion.tipo_de_transaccion }}</td>
+			<td>{{ Transaccion.codigo }}</td>
+			<td>{{ Transaccion.Valor_de_transaccion }}</td>
+			<td>{{ Transaccion.fecha_de_transaccion }}</td>
+
+
+			<td>{{ Transaccion.persona_id.nombre }} {{ Transaccion.persona_id.apellidos }}</td>
+
+		</tr>
+		{% endfor %}
+
+		{% else %}
+		<h1>No hay registros de transacciones</h1>
+		{% endif %}
+	</tbody>
+</table>
+{% endblock%}

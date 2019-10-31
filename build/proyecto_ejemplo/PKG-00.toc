@@ -1,0 +1,52 @@
+('C:\\Users\\Diego '
+ 'M\\Documents\\SoftwareParqueadero\\electron\\holamundo\\mi-app-django2\\build\\proyecto_ejemplo\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Diego '
+   'M\\Documents\\SoftwareParqueadero\\electron\\holamundo\\mi-app-django2\\build\\proyecto_ejemplo\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'c:\\users\\diego m\\anaconda3\\envs\\playgoes\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_django',
+   'c:\\users\\diego '
+   'm\\anaconda3\\envs\\playgoes\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_django.py',
+   'PYSOURCE'),
+  ('manage',
+   'C:\\Users\\Diego '
+   'M\\Documents\\SoftwareParqueadero\\electron\\holamundo\\mi-app-django2\\manage.py',
+   'PYSOURCE'),
+  ('proyecto_ejemplo.exe.manifest',
+   'C:\\Users\\Diego '
+   'M\\Documents\\SoftwareParqueadero\\electron\\holamundo\\mi-app-django2\\build\\proyecto_ejemplo\\proyecto_ejemplo.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False,
+ [])

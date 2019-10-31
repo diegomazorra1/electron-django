@@ -1,0 +1,66 @@
+{%load staticfiles %}
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+  <head>
+    <title>{% block title %} SASRU {% endblock %}</title>
+
+    <meta charset="utf-8">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+
+
+    <style type="text/css">
+
+      .borde{
+        background-color: gray;
+        height: 50px;
+      }
+      .borde2{
+        height: 50px;
+        text-align: center;
+        background-color: orange;
+
+      }
+      .borde3{
+        height: 50px;
+        text-align: center;
+        background-color: red;
+
+      }
+      .borde4{
+        height: 50px;
+        text-align: center;
+        background-color: black;
+
+      }
+    </style>
+  </head>
+  <body >
+
+
+<p> Bienvenido</p>
+ <div class="container borde4" style="height: 500px;">
+   <div class="row align-items-center"  style="height: 500px;">
+
+
+       <div class="col-12 borde">
+         <p>UNO</p>
+       </div>
+       <div class="col-12 borde2">
+         <p>DOS</p>
+       </div>
+       <div class="col-12 borde3 ">
+         <p>TRES</p>
+       </div>
+
+    </div>
+
+ </div>
+
+
+
+  </body>
+</html>

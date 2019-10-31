@@ -1,0 +1,42 @@
+{% extends 'base/base.html' %}
+{% load static %}
+{% block title %}Perfil{% endblock %}
+{% block content %}
+<style>.errorlist{color:red;} label{display:none}</style>
+<main role="main">
+  <div class="container">
+    <div class="row mt-3 mb-5">
+      <div class="col-md-9 mx-auto ">
+          <h3>Perfil   {{ user.get_username }}</h3>
+
+        <form action="" method="post" enctype="multipart/form-data">{% csrf_token %}
+          <div class="row">
+                     <!-- Previa del avatar -->
+                     <div class="col-md-2">
+                       {% if request.user.profile.avatar %}
+                         <img src="{{request.user.profile.avatar.url}}" class="img-fluid">
+                         <p class="mt-1">¿Borrar? <input type="checkbox" id="avatar-clear" name="avatar-clear" /></p>
+                       {% else %}
+                         <img src="{% static 'registration/img/no-avatar.jpg' %}" class="img-fluid">
+                       {% endif %}
+                     </div>
+
+
+            <!-- Previa del avatar -->
+            <div class="text-center">
+              <h4>Avatar</h4>
+              {{form.as_p}}
+
+            <!-- Formulario -->
+
+            <!--  <input type="file" name="avatar" class="form-control-file mt-3" id="id_avatar"> -->
+
+              <input type="submit" class="btn btn-primary btn-block" value="Actualizar">
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</main>
+{% endblock %}

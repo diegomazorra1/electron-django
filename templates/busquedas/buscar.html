@@ -1,0 +1,91 @@
+{% extends 'base/base.html' %}
+
+
+{% block content %}
+<div class="container">
+
+
+
+
+   {% if usuari  %}
+
+
+      <table class="table table-bordered">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">Apellidos</th>
+            <th scope="col">Cedula</th>
+            <th scope="col">Programa </th>
+            <th scope="col">Uid</th>
+            <th scope="col">Saldo</th>
+
+
+        		</tr>
+
+        	</thead>
+        	<tbody>
+
+   {% for usuario in usuario2 %}
+      <tr>
+
+                     <td>{{ usuario.id }}</td>
+                     <td>{{ usuario.nombre }}</td>
+                     <td>{{ usuario.apellidos }}</td>
+                     <td>{{ usuario.cedula }}</td>
+                     <td>{{ usuario.programa}}</td>
+                     <td>{{ usuario.uid}}</td>
+                     <td>{{ usuario.saldo}}</td>
+
+
+
+   {% endfor %}
+	<tr>
+   {% elif datos %}
+
+   <table class="table table-bordered">
+     <thead class="thead-dark">
+       <tr>
+         <th scope="col">#</th>
+         <th scope="col">Nombre</th>
+         <th scope="col">apellidos</th>
+         <th scope="col">cedula</th>
+         <th scope="col">programa </th>
+         <th scope="col">Uid</th>
+         <th scope="col">Codigo</th>
+         <th scope="col">Fecha de Transaccion</th>
+          <th scope="col">Valor de Transaccion $ </th>
+
+     		</tr>
+
+     	</thead>
+     	<tbody>
+      {% for dato in datos %}
+         {% for transaccion,usuarios in dato.items %}
+         <tr>
+
+                        <td>{{ usuarios.id }}</td>
+                        <td>{{ usuarios.nombre }}</td>
+                        <td>{{ usuarios.apellidos }}</td>
+                        <td>{{ usuarios.cedula }}</td>
+                        <td>{{ usuarios.programa}}</td>
+                        <td>{{ usuarios.uid}}</td>
+                        <td>{{ transaccion.codigo}}</td>
+                        <td>{{ transaccion.fecha_de_transaccion}}</td>
+                        <td>{{ transaccion.Valor_de_transaccion}}</td>
+
+
+      {% endfor %}
+         {% endfor %}
+    {% else %}
+
+   		<h1>No hay registros disponibles, intente con otros datos ingresados o verifiquelos </h1>
+
+
+   {% endif %}
+
+
+	</tbody>
+</table>
+{% endblock%}

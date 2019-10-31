@@ -1,0 +1,65 @@
+{% extends 'base/base.html' %}
+
+{% block title %} Lista de usuarios  {% endblock %}
+
+{% block content %}
+
+<br>
+<br>
+
+<div class="panel-body">
+
+
+
+<table  width="100%" class="table table-striped table-bordered table-hover" id="mytable">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Nombre</th>
+      <th scope="col">apellidos</th>
+      <th scope="col">cedula</th>
+      <th scope="col">programa </th>
+      <th scope="col">codigo </th>
+      <th scope="col">Uid</th>
+      <th scope="col">saldo</th>
+      <th scope="col">Imagen</th>
+      <th scope="col">Acciones</th>
+
+
+    </tr>
+  </thead>
+
+
+
+	<tbody>
+		{% if usuarios %}
+		{% for usuario  in usuarios %}
+		<tr>
+      <td>{{ usuario.id }}</td>
+			<td>{{ usuario.nombre }}</td>
+			<td>{{ usuario.apellidos }}</td>
+			<td>{{ usuario.cedula }}</td>
+			<td>{{ usuario.programa}}</td>
+      <td>{{ usuario.codigo}}</td>
+      <td>{{ usuario.uid}}</td>
+      <td>{{ usuario.saldo}}</td>
+      <td>
+        {% if usuario.foto %}
+        <img src="{{ usuario.foto.url}}" width="100" height="100">
+        {% endif %}
+      </td>
+
+
+			<td>
+				<a class="btn btn-primary" href="{% url 'usuarios:usuario_editar' usuario.id %}">Editar</a>
+				<a class="btn btn-danger" href="{% url 'usuarios:usuario_eliminar' usuario.id %}">Eliminar</a>
+			</td>
+		</tr>
+		{% endfor %}
+
+		{% else %}
+		<h1>No hay registros de transacciones</h1>
+		{% endif %}
+	</tbody>
+</table>
+{% endblock%}

@@ -1,0 +1,63 @@
+{% extends 'base/base.html' %}
+
+{% block title %}
+Inicio de sesion SASRU
+{% endblock %}
+{% block navbar%}
+{% endblock %}
+
+
+
+
+
+
+
+
+
+{% block content %}
+{% if form.errors %}
+<p>Tu usuario o contraseña no es correcta. Intenta nuevamente</p>
+{% endif %}
+
+{% if next %}
+    {% if user.is_authenticated %}
+    <p>Your account doesn't have access to this page. To proceed,
+    please login with an account that has access.</p>
+    {% else %}
+    <p>Please login to see this page.</p>
+    {% endif %}
+{% endif %}
+
+<div class="container">
+
+
+<form method="post">
+	{% csrf_token %}
+	 <div class="row">
+    	<div class="col-md-6 col-md-offset-3">
+    		<div class="form-group">
+        		<label for="username">Nombre de usuario:</label>
+        		<input class="form-control" type="text" name="username">
+    	   </div>
+        </div>
+    </div>
+    <div class="row">
+    	<div class="col-md-6 col-md-offset-3">
+    		<div class="form-group">
+        		<label for="username">Contraseña:</label>
+        		<input class="form-control" type="password" name="password">
+    	   </div>
+        </div>
+    </div>
+    <div class="row">
+    	<div class="col-md-6 col-md-offset-3">
+    		<div class="form-group">
+                <a href="{% url 'password_reset' %}">Olvidé mi contraseña  </a>
+        		<input class="btn btn-primary" type="submit" value="Ingresar">
+    	   </div>
+        </div>
+    </div>
+</form>
+
+
+{% endblock %}
